@@ -7,4 +7,4 @@ I haven't been a fan of short rests since I started playing DnD5e. After seeing 
 The PDF contains my proposed changes to the 5e system, covering feats, classes and subclasses, from the PHB, Xanathar's, Tasha's, Sword coast adventurer's guide, Fitzban's and Van Richten's.
 
 The JavaScript file contains all these changes for mpmb's character sheet, which can be found here: https://www.flapkan.com/#download.
-
+The file is tested with and assumes that the all_WotC_published (downloaded 28/07/2022) is imported into the sheet. It can (at the time of writing) be found here: https://www.reddit.com/r/mpmb/wiki/index/scriptindex
